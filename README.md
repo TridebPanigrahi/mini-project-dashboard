@@ -1,4 +1,5 @@
 # mini-project-dashboard
+This project demonstrates async data handling in React with retries, fallbacks, interceptors, and routing.
 
 # User Dashboard (React)
 
@@ -14,6 +15,7 @@
 - React
 - Axios
 - JavaScript (async/await)
+- react-router-dom
 
 ## Key Learnings
 - Handling async operations safely in React
